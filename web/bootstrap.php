@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+// Я внес изменения
 require_once 'config/config.php';
 $config = parse_ini_file("/config/config.ini");
 // подключаем файлы ядра
